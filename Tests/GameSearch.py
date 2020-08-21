@@ -1,5 +1,8 @@
 """
-Here I'm going to Casino section and take first game from Isoftbet list
+1.Log in
+2.Go to casino section
+3.Find a game in Isoftbet section
+4.Launch it
 
 """
 from selenium import webdriver
